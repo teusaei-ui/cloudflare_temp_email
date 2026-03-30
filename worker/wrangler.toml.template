@@ -5,8 +5,8 @@ compatibility_flags = [ "nodejs_compat" ]
 
 [vars]
 PREFIX = "tmp"
-DEFAULT_DOMAINS = ["ciaooo22.ccwu.cc "]
-DOMAINS = ["ciaooo22.ccwu.cc "]
+DEFAULT_DOMAINS = ["ciaooo33.us.ci"]
+DOMAINS = ["ciaooo33.us.ci"]
 PASSWORDS = ["Admin888"]
 ADMIN_PASSWORDS = ["Admin888"]
 JWT_SECRET = "codex_secret_jwt_888"
